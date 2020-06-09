@@ -1,0 +1,233 @@
+This is the file GUTINDEX.ALL
+
+Updated to May 9, 2020
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX.ALL is a plain text listing of all the eBooks which have been
+posted to the Project Gutenberg collection. It is also used to identify
+works already in the collection so that there is no duplication, and to
+determine what can be added to the collection.
+
+It is not a database, but it is useful for identifying eBooks so that
+they can be downloaded or read online.
+
+YEARLY CATALOGS
+
+GUTINDEX.2020 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2020 and December 31, 2020
+beginning with eBook number 61070.
+
+GUTINDEX.2019 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2019 and December 31, 2019
+beginning with eBook number 58592 and ending with eBook number 61069.
+
+GUTINDEX.2018 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2018 and December 31, 2018
+beginning with eBook number 56280 and ending with eBook number 58591.
+
+GUTINDEX.2017 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2017 and December 31, 2017
+beginning with eBook number 53856 and ending with eBook number 56279.
+
+GUTINDEX.2016 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2016 and December 31, 2016
+beginning with eBook number 50815 and ending with eBook number 53855.
+
+GUTINDEX.2015 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2015 and December 31, 2015
+beginning with eBook number 47837 and ending with eBook number 50814.
+
+GUTINDEX.2014 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2014 and December 31, 2014
+beginning with eBook number 44557 and ending with eBook number 47836.
+
+GUTINDEX.2013 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2013 and December 31, 2013
+beginning with eBook number 41750 and ending with eBook number 44556.
+
+GUTINDEX.2012 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2012 and December 31, 2012
+beginning with eBook number 38460 and ending with eBook number 41749.
+
+GUTINDEX.2011 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2011 and December 31, 2011
+beginning with eBook number 34807 and ending with eBook number 38459.
+
+GUTINDEX.2010 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2010 and December 31, 2010
+beginning with eBook number 30822 and ending with eBook number 34806.
+
+GUTINDEX.2009 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2009 and December 31, 2009
+beginning with eBook number 27681 and ending with eBook number 30821.
+
+GUTINDEX.2008 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2008 and December 31, 2008
+beginning with eBook number 24098 and ending with eBook number 27680.
+
+GUTINDEX.2007 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2007 and December 31, 2007
+beginning with eBook number 20240 and ending with eBook number 24097.
+
+GUTINDEX.2006 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2006 and December 31, 2006
+beginning with eBook number 17438 and ending with eBook number 20239.
+
+GUTINDEX.2005 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2005 and December 31, 2005
+beginning with eBook number 14548 and ending with eBook number 17437.
+
+GUTINDEX.2004 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2004 and December 31, 2004
+beginning with eBook number 10553 and ending with eBook number 14547.
+
+GUTINDEX.2003 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2003 and December 31, 2003
+beginning with eBook number 6619 and ending with eBook number 10552.
+
+GUTINDEX.2002 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2002 and December 31, 2002
+beginning with eBook number 4301 and ending with eBook number 6618.
+
+GUTINDEX.2001 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2001 and December 31, 2001
+beginning with eBook number 3106 and ending with eBook number 4300.
+
+GUTINDEX.2000 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2000 and December 31, 2000
+beginning with eBook number 2378 and ending with eBook number 3105.
+
+GUTINDEX.1999 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 1999 and December 31, 1999
+beginning with eBook number 1861 and ending with eBook number 2377.
+
+GUTINDEX.1998 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between  January 1, 1998 and December 31, 1998
+beginning with eBook number 1153 and ending with eBook number 1860.
+
+GUTINDEX.1997 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 1997 and December 31, 1997
+beginning with eBook number 769 and ending with eBook number 1152.
+
+GUTINDEX.1996 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 1971 and December 31, 1996
+beginning with eBook number 1 and ending with eBook number 768.
+
+GUTINDEX.AUS: The eBook listing for the eBooks posted at Project
+Gutenberg of Australia are in a separate file named GUTINDEX.AUS. Be
+sure to read the disclaimer and appendix included in that file.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       https://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          https://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      https://www.gutenberg.org/browse/authors/a
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ https://www.gutenberg.org/catalog/
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          https://www.gutenberg.org/
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  https://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the Enter key on your keyboard.
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  https://www.gutenberg.org/dirs/
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the lowest common denominator of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under More Files..." on the ebook download page.
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2018@pglaf.org and
+include the word CORRECTION in the subject line.
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's In Progress
+list at:
+
+  https://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  https://www.gutenberg.org/
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
