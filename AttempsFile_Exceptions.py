@@ -1,5 +1,5 @@
 '''
-#Exercise 10-4 pg 232
+#Exercise 10-4 pg 232 of 'Python Crash course'
 filename = "guest_book.txt"
 
 print("Please Enter your name.")
